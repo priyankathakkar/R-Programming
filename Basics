@@ -1,0 +1,27 @@
+## Problem Statement
+
+Part 1
+
+The goal of this assignment is to test your understanding of data summarization, exploration, and modeling.  
+Download the dataset here and “Teach me something”.  As before, when you do your analysis and prediction, 
+link this to a business application. (i.e. how would a marketing team use your information?)
+
+Census Income Data Set in the UCI Machine Learning Repository
+https://archive.ics.uci.edu/ml/datasets/Census+Income 
+Data exploration
+Missing and/or invalid values??
+Summary statistics
+Distributions
+Correlations
+Prediction
+Run a logistic regression
+
+Homework Part 2
+
+You are provided data for sales of Progresso soup in the U.S. The data are derived from approximately 2000 supermarkets across the country and span 6 years (2001-06). 
+Create a dummy variable for “Winter” months defined as Oct, Nov, Dec, Jan & Feb. Use the “Month” variable to create this.
+Compute the “Market Share” for Progresso (as percentage of total sales) in the Winter vs. non-Winter months using the variable created in (1).
+Develop a linear regression model to predict Progresso sales. Explain the results of the regression model (model strength, variable importance, relationship between the predictor and dependent variables). Use 1st tab in file.
+Predict Progresso Sales for stores listed in the “Predict” tab.
+
+## Find Result Solution Attached
